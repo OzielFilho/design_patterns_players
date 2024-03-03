@@ -1,0 +1,1 @@
+enum ContentPlayerType { video, audio }
